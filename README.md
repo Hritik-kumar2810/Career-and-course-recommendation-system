@@ -11,7 +11,7 @@
 
 #📁 Project Structure career-course-recommender/ │ ├── app.py # Main Flask application │ ├── models/ # Folder containing ML model and course data │ ├── model.pkl # Trained ML model for career prediction │ ├── scaler.pkl # Scaler used for feature normalization │ └── course_data.csv # Dataset of online courses with metadata │ ├── templates/ # HTML templates for rendering pages │ ├── home.html # Homepage UI │ ├── education.html # Career prediction form and result │ └── courses.html # Course recommendation UI │ ├── static/ # (Optional) Static files like CSS/JS/images │ └── ... # Add custom styles or scripts here if needed │ └── README.md
 
-#⚙️ How to Run #Clone the repository git clone https://github.com/abhaytripathi21/Career-and-Course-Recommendation-System.git cd Career-and-Course-Recommendation-System
+#⚙️ How to Run #Clone the repository git clone https://github.com/Hritik-kumar2810/Career-and-course-recommendation-system cd Career-and-course-recommendation-system
 
 #Install Dependencies Flask pandas numpy scikit-learn
 
